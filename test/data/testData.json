@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": 10001,
+      "name": "The shard",
+      "aliases": ["The shard of glass"],
+      "address": {
+        "line1": "32",
+        "line2": "London bridge street",
+        "city": "London",
+        "postcode": "SE1 9SG"
+      }
+    },
+    {
+      "id": 123456,
+      "address": {
+        "line1": "110 High Holborn",
+        "line2": "Holborn",
+        "city": "London",
+        "postcode": "WC1V 6EU"
+      }
+    },
+    {
+      "id": 111111,
+      "address": {
+        "line1": "123 High Street",
+        "line2": "Kinghtsbridge",
+        "city": "London",
+        "postcode": "AM4 5XY"
+      }
+    },
+    {
+      "id": 222222,
+      "address": {
+        "line1": "321 High Street",
+        "line2": "Chancery Lane",
+        "city": "London",
+        "postcode": "E1 8RG"
+      }
+    }
+  ]
+}
